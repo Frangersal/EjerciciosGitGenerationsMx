@@ -9,8 +9,9 @@ Este proyecto incluye codigo en **html** y esta pensado para
 4. Mejorar nuestras habilidades en Git / GitHub
 5. Practicar para nuestro proyecto integrador
 
+
 ---
-## Gracias por tus aportaciones
+## Gracias por tus aportaciones Y COMENTARIOS
 
 ```
 # code block
